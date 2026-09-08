@@ -55,6 +55,9 @@
     },
     "xbox-kinect": {
       "oculto": true
+    },
+    "ping-pong": {
+      "oculto": true
     }
   },
   "novos": []
