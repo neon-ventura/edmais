@@ -52,6 +52,9 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/edmais/main/uploads/pula-pula-castelao-1788827000084.webp",
       "nome": "Pula-Pula Inflável octógono com obstáculos",
       "desc": "Pula-pula Inflável octógono com obstáculos tipo João Bobo, círculos, cavalinhos no centro, servindo de montaria e atividades para as crianças. Indispensável na festa!"
+    },
+    "xbox-kinect": {
+      "oculto": true
     }
   },
   "novos": []
